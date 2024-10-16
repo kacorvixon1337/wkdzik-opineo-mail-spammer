@@ -4,7 +4,7 @@ stacked mails spammer powered by wkdzik.pl indian technology
 # how to use?
 
 - pip install colorama
-- py nigger.py
+- py spammer.py
 
 - more instructions inside
 
